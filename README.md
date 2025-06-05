@@ -13,11 +13,11 @@
 
 # 💫 Sobre mí
 
-🔭 Actualmente trabajando en mi proyecto académico de gestión de hoteles (Python, Flask)  
-🌱 Estoy aprendiendo más sobre desarrollo backend, bases de datos y metodologías ágiles  
-👯 Busco colaborar en proyectos relacionados con backend y mejora de procesos  
-🤔 No busco ayuda, pero siempre abierto a conversar sobre tecnología y desarrollo  
-💬 Pregúntame sobre Python, Flask, SQL, metodologías ágiles o sobre mi experiencia  
+🔭 Interesado en proyectos de desarrollo backend, APIs y bases de datos
+🌱 Continuamente aprendiendo sobre tecnologías backend, arquitecturas y metodologías ágiles
+👯 Abierto a colaborar en proyectos que impliquen mejora de procesos y desarrollo de software
+🤔 Disponible para intercambiar ideas y conocimientos sobre tecnología y desarrollo
+💬 Consultas sobre Python, FastAPI, Flask, SQL, metodologías ágiles o experiencia profesional
 📫 Cómo contactarme:  
 Email: blasandresromero1998@gmail.com  
 GitHub: [github.com/blazromero](https://github.com/blazromero) | [github.com/blaz-romero](https://github.com/blaz-romero)  
